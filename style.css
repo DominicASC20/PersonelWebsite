@@ -1,0 +1,33 @@
+body {
+   background:skyblue;
+   text-align:center;
+} 
+.Bio {
+    text-align:center;
+    border: blue solid;
+    border-width: 20px;
+    padding:20px;
+    font-size:20px;
+    font-style:auto;
+
+}
+
+.Goals {
+    text-align:center;
+    border:purple solid;
+    border-width:20px;
+    padding:20px;
+    font-size:20px;
+}
+.Contact-Info {
+    text-align:center;
+    border: black solid;
+    border-width:20px;
+    padding:20px;
+}
+.Code-Projects {
+    text-align:center;
+    border:grey solid;
+    border-width:20px;
+    padding:20px;
+}
