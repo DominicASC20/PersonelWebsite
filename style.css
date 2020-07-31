@@ -2,6 +2,9 @@ body {
    background:skyblue;
    text-align:center;
 } 
+header{
+    font-family:cursive;
+}
 .Bio {
     text-align:center;
     border: blue solid;
@@ -20,7 +23,7 @@ body {
     font-size:20px;
 }
 .Contact-Info {
-    text-align:center;
+    text-align:center solid;
     border: black solid;
     border-width:20px;
     padding:20px;
@@ -30,4 +33,24 @@ body {
     border:grey solid;
     border-width:20px;
     padding:20px;
+}
+.Code_Projects {
+    font-family:cursive;
+    text-align:center;
+    border:teal solid;
+    border-width:20px;
+    padding:20px;
+}
+#image1 {
+    font-size:30px;
+}
+
+#image2 {
+    font-size:30px;
+}
+#image3{
+    font-size:30px;
+}
+.Back {
+    font-size:30px;
 }
